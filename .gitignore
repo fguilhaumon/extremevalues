@@ -12,11 +12,9 @@
 *.log
 *.aux
 
-pkg/DESCRIPTION
-pkg/NAMESPACE
-
 # ignored directories
 output/
 pkg/man/
 
 
+.Rproj.user
