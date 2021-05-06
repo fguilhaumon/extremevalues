@@ -3,6 +3,6 @@ extremevalues
 
 An R-package for distribution-based outlier detection
 
-- fork without X11
+- fork without Gui (remove widget packages dependencies)
 
 
